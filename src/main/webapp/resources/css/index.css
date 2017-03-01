@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css?family=Slabo+27px');
+
+*{padding: 0px; margin: 0px;}
+
+body{font-family: 'Slabo 27px', serif;background-color: #e9ebee;}
+
+#imaginary_container{
+    margin-top:20%; /* Don't copy this */
+}
+.stylish-input-group .input-group-addon{
+    background: white !important;
+}
+.stylish-input-group .form-control{
+    border-right:0;
+    box-shadow:0 0 0;
+    border-color:#ccc;
+}
+.stylish-input-group button{
+    border:0;
+    background:transparent;
+}
+
+.logo {
+    float: left;
+}
+
+.title {
+    font-size: 4.2em;
+    margin-left: 20px;
+}
+
+.logo_title {
+    margin-bottom: 15px;
+    margin-left: 29px;
+}
+
+#imaginary_container button.btn.dropdown-toggle.btn-primary {padding-top: 10px;padding-bottom: 10px;width: 83%;}
+
+input#input_search {
+    padding-bottom: 20px;
+    padding-top: 20px;
+    /* padding: 29px; */
+}
+
+input#input_search {
+    font-size: 20px;
+}
+
+.items span.text {
+    font-size: 15px;
+    padding: 2px;
+}
+
+span.filter-option.pull-left {
+    font-size: 15px;
+}

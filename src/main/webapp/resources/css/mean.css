@@ -1,0 +1,163 @@
+@import url('https://fonts.googleapis.com/css?family=Slabo+27px');
+
+*{padding: 0px; margin: 0px;}
+
+.wapper_bar_search {
+	padding: 10px 0px;
+	background: white;
+	margin-bottom: 15px;
+}
+
+.bar_search_mean {
+	padding-top: 8px;
+}
+
+body{ font-family: 'Slabo 27px', serif; }
+
+.stylish-input-group .input-group-addon{
+	background: white !important;
+}
+.stylish-input-group .form-control{
+	border-right:0;
+	box-shadow:0 0 0;
+	border-color:#ccc;
+}
+.stylish-input-group button{
+	border:0;
+	background:transparent;
+}
+
+.list_right_word {
+	background-color: white;
+	padding-bottom: 10px;
+	border-radius: 7px;
+	box-shadow: 3px 0px 5px #c7c2c2;
+}
+
+li.list_group_item {
+	margin: 10px 0px;
+	font-size: 17px;
+}
+
+.statement_mean {
+	margin-left: 30px;
+	color: blue;
+	margin-top: 5px;
+}
+
+.statement {
+	padding: 9px 0px;
+	font-size: 14px;
+}
+
+.mean_word {
+	height: 35px;
+	margin-top: 10px;
+}
+
+.start {
+	float: left;
+	margin-right: 10px;
+	height: 19px;
+	width: 16px;
+	padding: 2px;
+	background-color: #c1943b;
+	border-radius: 20px;
+	color: white;
+	font-size: 12px;
+}
+
+.kind_of_word {
+	padding: 9px 20px;
+	background-color: #faf1e6;
+	border-left: 4px solid #da7d0b;
+	margin-bottom: 15px;
+	font-size: 15px;
+}
+
+.sound {
+	color: #cc1b1b;
+}
+
+.pronounce {
+	margin: 10px 10px;
+	margin-top: 15px;
+	margin-left: 25px;
+}
+
+body {
+	background-color: #f2f2f2;
+}
+
+.wapper img {
+	width: 34px;
+	float: left;
+	margin-right: 15px;
+	margin-top: 5px;
+}
+
+#word {
+	padding: 0px 30px;
+	background: #4577bf;
+	color: white;
+	height: 46px;
+}
+
+#word h2 {
+	padding-top: 7px;
+	font-size: 25px;
+	font-weight: 800;
+}
+
+.frame {
+	background-color: white;
+	padding: 50px 0px;
+	border-radius: 9px;
+	box-shadow: 3px 0px 5px #c7c2c2;
+}
+
+#word_mean {
+	margin-left: 25px;
+}
+
+div.phonetic {
+	font-size: 18px;
+	margin-right: 20px;
+	float: left;
+}
+
+.kind_of_word i.fa.fa-plus-circle {
+	margin-right: 8px;
+	color: #d67e12;
+}
+
+.statement i.fa.fa-circle {
+	float: left;
+	font-size: 9px;
+	margin-top: 5px;
+	margin-right: 15px;
+	margin-left: 6px;
+	color: #698cbd;
+}
+
+.near_word {
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+
+ul.list-group {
+	list-style: none;
+	background-color: white;
+	padding-top: 0px;
+	margin-left: 20px;
+}
+
+h4.list-group-item-heading {
+	color: white;
+	background-color: #4577bf;
+	padding: 11px;
+	font-weight: 600;
+	text-align: center;
+	border-top-left-radius: 7px;
+	border-top-right-radius: 7px;
+}
